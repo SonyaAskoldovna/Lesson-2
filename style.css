@@ -1,0 +1,259 @@
+header{
+    background-color: rgb(198, 162, 107);
+    height: 400px;
+}
+.Logo{
+ width: 250px;
+ height: 100px;
+}
+.HList{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 20px;
+    margin: 0;
+}
+.HList>li{
+    color: rgb(95, 10, 10);
+    width: 200px;
+}
+.HSearch{
+    color: rgb(255, 205, 140);
+    background-color: rgb(121, 91, 17);
+    border-radius: 30px;
+    padding: 20px;
+    width: 730px;
+    margin-bottom: 50px;
+}
+main{
+    height: 4500px;
+    background-color: #eeca9c;
+}
+.Katalog{
+    color: rgb(95, 10, 10);
+    padding: 40px;
+    font-weight: 900;
+    font-size: 30px;
+}
+.HR{
+ width: 1800px;
+}
+.Foto{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 20px; 
+}
+.Fon{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    padding: 50px;
+    border-radius: 25px;
+}
+.Foto>li{
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: center;
+}
+.Novinki{
+    color: rgb(95, 10, 10);
+    padding: 40px;
+    font-weight: 900;
+    font-size: 30px;
+}
+.HR{
+ width: 1800px;
+}
+.Foto2{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 20px; 
+}
+.Fon2{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    padding: 50px;
+    border-radius: 25px;
+}
+.Foto2>li{
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: center;
+}
+.Foto3{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 20px; 
+}
+.Fon3{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    padding: 50px;
+    border-radius: 25px;
+}
+.Foto3>li{
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: center;
+}
+.Text , .Price{
+    color: rgb(37, 24, 24);
+    text-align: justify;
+    margin-left: 60px;
+    font-size: 17px;
+    font-weight: 700;
+}
+.Price{
+    color: rgb(139, 99, 66);
+}
+.Peshka{
+    background-image: url(images/Shopping.png);
+    width: 500px;
+    height: 200px;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+}
+.Peshka>p{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.685);
+    color: aliceblue;
+    border-radius: 10px;
+    width: 100%;
+    padding: 30px;
+}
+.Peshka2{
+    background-image: url(https://i.pinimg.com/564x/2e/10/53/2e1053a6d1f11e9e9bdfe04381d54c86.jpg);
+    width: 500px;
+    height: 200px;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+}
+.Peshka2>p{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.685);
+    color: aliceblue;
+    border-radius: 10px;
+    width: 100%;
+    padding: 30px;
+}
+.NewsCards{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+.Brendy{
+    color: rgb(95, 10, 10);
+    padding: 40px;
+    font-weight: 900;
+    font-size: 30px;
+}
+.Brend{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 20px; 
+}
+.Foto4{
+    width: 300px;
+    height: 150px;
+    margin: 20px;
+    padding: 50px;
+    border-radius: 25px;
+}
+.Vopros{
+    background-color: #cfb584;
+    height: 500px;
+    border-radius: 20px;
+    width: 1200px;
+    padding: 20px; 
+    filter: drop-shadow(-15px -8px 7px #f7dede);
+
+}
+.Vopros>p{
+    text-align: center;
+}
+.Vopros>div{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.Foto5{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;   
+}
+.Text2{
+    color: rgb(65, 51, 33);
+    font-size: larger;
+    font-weight: 800;
+}
+.Text3{
+    color: rgb(37, 30, 20);
+    font-size: 30px;
+    font-weight: 900;
+}
+.Magazin{
+    color: rgb(95, 10, 10);
+    padding: 40px;
+    font-weight: 900;
+    font-size: 30px;
+}
+.AboutText{
+    display: flex;
+    justify-content: space-evenly;
+}
+.AboutText>div{
+    width: 40%;
+    font-size: 30px;
+}
+.Text4{
+    color: rgb(46, 18, 18);
+    font-weight: 900;
+    font-size: 30px;
+    padding: 20px;
+    padding-bottom: 2px;
+}
+.Text5{
+    color: rgb(95, 10, 10);
+    padding: 20px;
+    font-weight: 900;
+    font-size: 30px;
+    padding-top: 2px;
+}
+footer{
+    height: 400px;
+    background-color: #a55151;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 250px 0 250px;
+    align-items: center;
+}
+.Graphik>p{
+    font-size: x-large;
+    margin: 0;
+    color: #3d0d0d;
+}
+.Contacts>ul{
+    list-style: none;
+
+}
+.Contacts>ul>li{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.Contacts>ul>li>img{
+    margin-right: 10px;
+}
